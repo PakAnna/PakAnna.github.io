@@ -1,0 +1,24 @@
+*{
+	font-family: 'DotGothic16', sans-serif;
+}
+p::first-letter {
+
+  float: top;
+  font-size: 1.5em;
+
+}
+body{
+background: rgb(238,174,202);
+}
+ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.img{
+
+  width: 20em;
+  height: 20em;
+}
